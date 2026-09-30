@@ -1,6 +1,0 @@
-streamlit
-librosa
-numpy
-joblib
-scikit-learn
-soundfile #SoundFile provides audio-file reading/writing support that Librosa can use, particularly for formats such as WAV.
